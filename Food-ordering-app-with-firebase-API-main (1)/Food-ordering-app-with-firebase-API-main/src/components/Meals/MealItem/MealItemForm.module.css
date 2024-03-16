@@ -1,0 +1,20 @@
+.form{
+    text-align: right;
+    
+}
+.form button{
+    border-radius:15px;
+    border:none;
+    background:#8a2b06 ;
+    color:white;
+    padding:0.5rem 2rem;
+    font-weight: bold;
+    font-size: medium;
+    
+}
+
+.form button:hover, 
+.form button:active{
+    background:#591e08 ;
+
+}

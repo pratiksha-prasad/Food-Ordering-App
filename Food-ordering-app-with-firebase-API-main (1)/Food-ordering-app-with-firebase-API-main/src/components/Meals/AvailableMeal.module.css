@@ -1,0 +1,15 @@
+.meal-item{
+    width:90%;
+    max-width: 60rem;
+    margin: 2rem auto;
+}
+
+.meal-item ul{
+    list-style:none;
+    margin: 0;
+    padding: 0;
+}
+
+.loading{
+    text-align: center;
+}
